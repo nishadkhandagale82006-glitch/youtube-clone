@@ -5,7 +5,7 @@ Responsive YouTube homepage clone built with HTML, CSS, and JavaScript. Features
 
 A responsive YouTube homepage clone built using **HTML, CSS, and JavaScript**. This project recreates the core YouTube interface to practice front-end development, responsive layouts, and DOM manipulation.
 
-#live demo: ## 🌐 Live Demo
+#Live Demo 🌐 Live Demo
 
 https://nishadkhandagale82006-glitch.github.io/youtube-clone/
 
