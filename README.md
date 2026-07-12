@@ -43,7 +43,8 @@ YouTube-Clone/
 
 ## 📸 Preview
 
-> Add a screenshot of the project here.
+> <img width="1917" height="910" alt="image" src="https://github.com/user-attachments/assets/d9948de2-77ab-4d9b-b63c-83ea39d55cab" />
+
 
 ## 🎯 Learning Objectives
 
